@@ -1,0 +1,49 @@
+* {
+    background-color: black;
+    color: white
+}
+
+header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+main {
+    text-align: center;
+}
+
+main video {
+    display: block;
+    margin: auto;
+}
+
+main p {
+    color: gray;
+    font-size: 21px;;
+}
+
+main h2 {
+    font-size: 42px;
+}
+
+main img {
+    display: block;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+main a {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+footer h2{
+    text-align: right;
+    color: gray
+}
